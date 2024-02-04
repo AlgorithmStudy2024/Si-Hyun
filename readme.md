@@ -75,7 +75,7 @@
 <tr>
 <td rowspan="4">5주차</td>
 <td> <a href="https://www.acmicpc.net/problem/1005">1005</a></td>
-<td rowspan="4"><a href="#">-</td>
+<td rowspan="4"><a href="https://velog.io/@1876060677/5주차-백준-BoJ-c-풀이-1005-9020-11066-15666">Velog에서 보기</td>
 </tr>
 
 <tr>
