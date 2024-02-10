@@ -8,17 +8,27 @@
 </tr>
 
 <tr>
-<td rowspan="3">1주차</td>
+<td rowspan="4">1주차</td>
 <td> <a href="https://www.acmicpc.net/problem/2167">2167</a></td>
-<td rowspan="3"><a href="https://velog.io/@1876060677/1주차-백준-BoJ-C-풀이-2167-2669-14719">Velog에서 보기</td>
+<td rowspan="4"><a href="https://velog.io/@1876060677/1주차-백준-BoJ-C-풀이-2167-2669-14719">Velog에서 보기</td>
+
+<td rowspan="4">7주차</td>
+<td> <a href="https://www.acmicpc.net/problem/2644">2167</a></td>
+<td rowspan="4"><a href="#">-</td>
 </tr>
 
 <tr>
 <td><a href="https://www.acmicpc.net/problem/2669">2669</a></td>
+<td><a href="https://www.acmicpc.net/problem/13274">13274</a></td>
 </tr>
 
 <tr>
 <td><a href="https://www.acmicpc.net/problem/14719">14719</a></td>
+<td><a href="https://www.acmicpc.net/problem/2313">2313</a></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="https://www.acmicpc.net/problem/17144">17144</a></td>
 </tr>
 
 <tr>
