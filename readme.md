@@ -13,7 +13,7 @@
 <td rowspan="4"><a href="https://velog.io/@1876060677/1주차-백준-BoJ-C-풀이-2167-2669-14719">Velog에서 보기</td>
 
 <td rowspan="4">7주차</td>
-<td> <a href="https://www.acmicpc.net/problem/2644">2167</a></td>
+<td> <a href="https://www.acmicpc.net/problem/2644">2644</a></td>
 <td rowspan="4"><a href="#">-</td>
 </tr>
 
