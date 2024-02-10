@@ -103,7 +103,7 @@
 <tr>
 <td rowspan="4">6주차</td>
 <td> <a href="https://www.acmicpc.net/problem/11049">11049</a></td>
-<td rowspan="4"><a href="#">-</td>
+<td rowspan="4"><a href="https://velog.io/@1876060677/6주차-백준-BoJ-c-풀이-15664-17271-11049-2533">Velog에서 보기</td>
 </tr>
 
 <tr>
