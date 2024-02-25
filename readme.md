@@ -17,7 +17,7 @@
 
 <td rowspan="4">7주차</td>
 <td> <a href="https://www.acmicpc.net/problem/2644">2644</a></td>
-<td rowspan="4"><a href="#">-</td>
+<td rowspan="4"><a href="https://velog.io/@1876060677/7주차-백준-BoJ-c-풀이-2644-2313-17144-13274">Velog에서 보기</td>
 </tr>
 
 <tr>
@@ -38,15 +38,24 @@
 <td rowspan="4">2주차</td>
 <td> <a href="https://www.acmicpc.net/problem/1987">1987</a></td>
 <td rowspan="4"><a href="https://velog.io/@1876060677/2주차-백준-BoJ-c-풀이-11725-16173-1987-17141">Velog에서 보기</td>
+<td rowspan="4">8주차</td>
+<td> <a href="https://www.acmicpc.net/problem/11060">11060</a></td>
+<td rowspan="4"><a href="#">-</td>
 </tr>
+
 <tr>
 <td><a href="https://www.acmicpc.net/problem/11725">11725</a></td>
+<td> <a href="https://www.acmicpc.net/problem/1992">1992</a></td>
 </tr>
+
 <tr>
 <td><a href="https://www.acmicpc.net/problem/16173">16173</a></td>
+<td> <a href="https://www.acmicpc.net/problem/5549">5549</a></td>
 </tr>
+
 <tr>
 <td><a href="https://www.acmicpc.net/problem/17141">17141</a></td>
+<td> <a href="https://www.acmicpc.net/problem/2734">2734</a></td>
 </tr>
 
 <tr>
