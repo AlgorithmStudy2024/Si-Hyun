@@ -62,18 +62,24 @@
 <td rowspan="4">3주차</td>
 <td> <a href="https://www.acmicpc.net/problem/5568">5568</a></td>
 <td rowspan="4"><a href="https://velog.io/@1876060677/3주차-백준-BoJ-c-풀이-5568-12101-5639-18428">Velog에서 보기</td>
+<td rowspan="4">Naver<br>코테 준비</td>
+<td> <a href="https://www.acmicpc.net/problem/14502">14502</a></td>
+<td rowspan="4"><a href="#">-</td>
 </tr>
 
 <tr>
 <td><a href="https://www.acmicpc.net/problem/5639">5639</a></td>
+<td> <a href="https://www.acmicpc.net/problem/1002">1002</a></td>
 </tr>
 
 <tr>
 <td><a href="https://www.acmicpc.net/problem/12101">12101</a></td>
+<td> <a href="https://www.acmicpc.net/problem/1932">1932</a></td>
 </tr>
 <tr>
 
 <td><a href="https://www.acmicpc.net/problem/18428">18428</a></td>
+<td> <a href="https://www.acmicpc.net/problem/11724">11724</a></td>
 </tr>
 
 <tr>
