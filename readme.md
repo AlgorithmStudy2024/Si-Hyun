@@ -64,7 +64,7 @@
 <td rowspan="4"><a href="https://velog.io/@1876060677/3주차-백준-BoJ-c-풀이-5568-12101-5639-18428">Velog에서 보기</td>
 <td rowspan="4">Naver<br>코테 준비</td>
 <td> <a href="https://www.acmicpc.net/problem/14502">14502</a></td>
-<td rowspan="4"><a href="#">-</td>
+<td rowspan="4"><a href="https://velog.io/@1876060677/네이버-코테-준비-백준-BoJ-c-풀이-1012-1932-11724-14502">Velog에서 보기</td>
 </tr>
 
 <tr>
